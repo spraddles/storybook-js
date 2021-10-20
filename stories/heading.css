@@ -1,0 +1,10 @@
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #e33939;
+}
+.heading-small {
+    font-size: 18px;
+}
+.heading-large {
+    font-size: 35px;
+}
