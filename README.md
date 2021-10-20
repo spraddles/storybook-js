@@ -3,5 +3,5 @@
 To run:  
 ```
 npm install
-npm run storybook
+yarn storybook
 ```
